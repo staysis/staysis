@@ -1,0 +1,20 @@
+{
+  "name": "drupal/staysis",
+  "description": "Staysis is a Drupal 8 distribution for creating semantically rich static HTML sites",
+  "type": "drupal-profile",
+  "keywords": ["Drupal"],
+  "homepage": "http://staysis.info",
+  "license": "GPL-2.0+",
+  "require": {
+    "drupal/lunr": "^1.0@alpha",
+    "drupal/tome": "^1.3",
+    "drupal/tome_git": "1.x-dev"
+  },
+  "authors": [
+    {
+      "name": "Bryan J. Brown",
+      "email": "bjbrown@fsu.edu",
+      "role": "Maintainer"
+    }
+  ]
+}
