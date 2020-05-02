@@ -1,0 +1,6 @@
+name: Staysis 
+core: 8.x
+type: profile
+description: 'Staysis is a Drupal 8 distribution for creating semantically rich static HTML sites'
+install:
+themes:
