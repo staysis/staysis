@@ -1,6 +1,49 @@
 name: Staysis 
-core: 8.x
 type: profile
-description: 'Staysis is a Drupal 8 distribution for creating semantically rich static HTML sites'
+description: 'Staysis is a Drupal 8 distribution for creating static HTML sites'
+core: 8.x
 install:
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - contextual
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - taxonomy
+  - dblog
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - tour
+  - serialization
+  - media
+  - media_library
+  - simple_sitemap
+  - token
+  - metatag
+  - asset_injector
+  - lunr
+  - tome
+  - tome_base
+  - tome_static
+  - tome_sync
+  - tome_git
 themes:
+  - bartik
+  - seven
+  - bootstrap
