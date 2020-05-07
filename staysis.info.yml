@@ -1,6 +1,6 @@
 name: Staysis 
 type: profile
-description: 'Staysis is a Drupal 8 distribution for creating static HTML sites'
+description: 'Staysis is a Drupal 8 distribution for creating semantically rich static HTML sites'
 core: 8.x
 dependencies:
   - drupal:node
